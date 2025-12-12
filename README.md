@@ -1,16 +1,36 @@
-## Hi there 👋
+# Hi, I'm Mohammed 👋
 
-<!--
-**mohammed-mbarak/mohammed-mbarak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Fullstack MERN Developer | Passionate about building scalable web apps | Certified PLP Academy Graduate
 
-Here are some ideas to get you started:
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://mohammed-mbarak-portfolio.onrender.com/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mohammed-mbarak/)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Skills
+- **Frontend:** HTML, CSS, JavaScript, React, Redux  
+- **Backend:** Node.js, Express, MongoDB  
+- **Other:** Python, Django, REST APIs, Git/GitHub  
+
+---
+
+## 🚀 Projects
+- **[CINEHORIZON](https://github.com/mohammed-mbarak/CINEHORIZON)** - Modern movie discovery web app with live search & trailers  
+- **[Password Generator](https://github.com/mohammed-mbarak/Password-Generator)** - Simple random password generator using HTML, CSS, JS  
+- **[MOHAMMED-PORTFOLIO](https://github.com/mohammed-mbarak/Mohammed-Portfolio)** - My personal portfolio showcasing projects & skills  
+
+---
+
+## 📈 GitHub Stats
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)
+
+---
+
+## 🌱 Currently Learning
+- Next.js, TypeScript, Advanced React patterns  
+
+---
+
+## 🤝 Let’s Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mohammed-mbarak/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue)](https://mohammed-mbarak-portfolio.onrender.com/)
