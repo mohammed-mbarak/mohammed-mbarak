@@ -42,8 +42,12 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 
 ---
 
-## 📈 GitHub Stats
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)
+## 📊 GitHub Analytics
+
+![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mbarak&theme=radical)  
+![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammed-mbarak&theme=react-dark&hide_border=true)
 
 ---
 
