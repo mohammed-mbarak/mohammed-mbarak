@@ -1,16 +1,20 @@
 # Hi, I'm Mohammed 👋
 
-Fullstack MERN Developer | Passionate about building scalable web apps | Security Analyst
+**Fullstack MERN Developer | Security Analyst | Web Developer**  
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-mbarak/)
-[![X](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x)](https://x.com/kenmbarak)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/kenmbarak/)
+📧 mohammedmbarak77@gmail.com | 📱 +254 707 893 724  
+🌐 [Portfolio](https://mohammed-mbarak-portfolio.onrender.com/) · [LinkedIn](https://www.linkedin.com/in/mohammed-mbarak/) · [GitHub](https://github.com/mohammed-mbarak/) · [X](https://x.com/kenmbarak) · [Facebook](https://www.facebook.com/kenmbarak/)
+
+---
+
+## 💼 Professional Summary
+Security Analyst and Full-Stack Developer with expertise in cybersecurity operations and modern web development. Proficient in **threat monitoring, vulnerability assessments, incident response, and secure coding practices** using tools like Wireshark, Splunk, Nessus, Burp Suite, and SIEM platforms. Knowledgeable in **NIST and CIS frameworks**.  
+
+Experienced in building and securing responsive applications using **MERN, FastAPI, and Spring Boot**, with strengths in **frontend design, backend APIs, and database management**. Adept at integrating security into development lifecycles, optimizing performance, and delivering secure, scalable solutions.
 
 ---
 
 ## 🛠️ Technical Skills
-
 **Frontend:** HTML5, CSS3/SCSS, JavaScript (ES6+), TypeScript, React, Next.js, Angular  
 **Backend:** Node.js/Express, Python/FastAPI, Java, Spring Boot, MongoDB, PostgreSQL, Prisma ORM  
 **Tooling & Version Control:** Git/GitHub, Webpack, ESLint, Prettier, Docker, Azure  
@@ -21,7 +25,6 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 ---
 
 ## 💻 Professional Experience
-
 **E&M Technology House — Full Stack Developer & Security Analyst**  
 *Jan 2024 – Mar 2025*  
 - Developed responsive React interfaces with reusable components and SCSS modules.  
@@ -34,20 +37,23 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 ---
 
 ## 🚀 Projects
-- **[CINEHORIZON](https://github.com/mohammed-mbarak/CINEHORIZON)** - Modern movie discovery web app with live search & trailers  
-- **[Password Generator](https://github.com/mohammed-mbarak/Password-Generator)** - Simple random password generator using HTML, CSS & JS  
-- **[MOHAMMED-PORTFOLIO](https://github.com/mohammed-mbarak/Mohammed-Portfolio)** - My personal portfolio showcasing projects & skills  
-- **[QRStudio](https://qrstudio.onrender.com/)** - Dynamic QR code generator app built with modern web technologies  
-- **[NovaHealth](https://novahealth.onrender.com/)** - Healthcare web app for managing appointments and health data  
+- **[NovaHealth](https://novahealth.onrender.com/)** – Healthcare platform (MERN Stack)  
+- **[QRStudio](https://qrstudio.onrender.com/)** – Dynamic QR code generator  
+- **[CINEHORIZON](https://github.com/mohammed-mbarak/CINEHORIZON)** – Movie discovery app  
+- **[Password Generator](https://github.com/mohammed-mbarak/Password-Generator)** – Random password generator  
+- **[MOHAMMED-PORTFOLIO](https://github.com/mohammed-mbarak/Mohammed-Portfolio)** – Personal portfolio  
 
 ---
 
 ## 📊 GitHub Analytics
 
-![Mohammed's GitHub stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)  
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical)  
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mbarak&theme=radical)  
-![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=mohammed-mbarak&theme=react-dark&hide_border=true)
+
+### 🔹 Additional Stats
+![GitHub Followers](https://img.shields.io/github/followers/mohammed-mbarak?style=social)  
+![Repositories](https://img.shields.io/github/repos/mohammed-mbarak?style=flat&logo=github)  
+![Commits](https://img.shields.io/badge/Commits-185-informational?style=flat)  
 
 ---
 
@@ -67,7 +73,7 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 ---
 
 ## 🤝 Let’s Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-mbarak/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)
-[![X](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x)](https://x.com/kenmbarak)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-mbarak/)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)  
+[![X](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x)](https://x.com/kenmbarak)  
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/kenmbarak/)
