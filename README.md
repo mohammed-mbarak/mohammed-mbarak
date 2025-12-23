@@ -44,8 +44,21 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical)  
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical)  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mbarak&theme=radical&hide_border=true&background=0D1117)
+
+### 💻 Tech Stack
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
+![Express](https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white)
 
 ---
 
@@ -64,7 +77,7 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 
 ---
 
-## 🤝 Let’s Connect
+## 🤝 Let's Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-mbarak/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)
 [![X](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x)](https://x.com/kenmbarak)
