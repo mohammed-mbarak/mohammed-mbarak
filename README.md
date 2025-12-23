@@ -1,12 +1,32 @@
-# Hi, I'm Mohammed 👋
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Mohammed%20Mbarak&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient" />
+</div>
 
-Fullstack MERN Developer | Passionate about building scalable web apps | Security Analyst
+<h3 align="center">💻 Fullstack MERN Developer | 🚀 Building Scalable Web Apps | 🔐 Security Analyst</h3>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-View-blue?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/mohammed-mbarak/)
-[![X](https://img.shields.io/badge/X-Follow-blue?style=for-the-badge&logo=x)](https://x.com/kenmbarak)
-[![Facebook](https://img.shields.io/badge/Facebook-Follow-blue?style=for-the-badge&logo=facebook)](https://www.facebook.com/kenmbarak/)
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=22&pause=1000&color=36BCF7&center=true&vCenter=true&width=500&lines=Welcome+to+my+GitHub+Profile!;Fullstack+MERN+Developer;Security+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+</p>
 
+<p align="center">
+  <a href="https://mohammed-mbarak-portfolio.onrender.com/" target="_blank">
+    <img src="https://img.shields.io/badge/🌐_Portfolio-FF5722?style=for-the-badge&logoColor=white" alt="Portfolio"/>
+  </a>
+  <a href="https://www.linkedin.com/in/mohammed-mbarak/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://x.com/kenmbarak" target="_blank">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://www.facebook.com/kenmbarak/" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook"/>
+  </a>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=mohammed-mbarak&label=Profile%20views&color=blueviolet&style=for-the-badge" alt="Profile Views" />
+  <img src="https://img.shields.io/github/followers/mohammed-mbarak?label=Followers&style=for-the-badge&color=blue" alt="GitHub Followers" />
+</p>
 ---
 
 ## 🛠️ Technical Skills
