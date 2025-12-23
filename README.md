@@ -44,11 +44,17 @@ Fullstack MERN Developer | Passionate about building scalable web apps | Securit
 
 ## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mohammed-mbarak&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&count_private=true&include_all_commits=true" alt="GitHub Stats" />
+</p>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohammed-mbarak&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&langs_count=8&exclude_repo=repo-name-to-exclude" alt="Top Languages" />
+</p>
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=mohammed-mbarak&theme=radical&hide_border=true&background=0D1117)
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=mohammed-mbarak&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" />
+</p>
 
 ### 💻 Tech Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
