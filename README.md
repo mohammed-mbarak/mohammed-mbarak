@@ -109,6 +109,7 @@
 ### 🎬 CINEHORIZON
 Modern movie discovery web app with live search & trailers
 
+[![Live](https://img.shields.io/badge/Live-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome)](https://cinehorizon.netlify.app/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-mbarak/CINEHORIZON)
 
 </td>
@@ -117,6 +118,7 @@ Modern movie discovery web app with live search & trailers
 ### 🔒 Password Generator
 Simple random password generator using HTML, CSS & JS
 
+[![Live](https://img.shields.io/badge/Live-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome)](https://passgen-lite.netlify.app/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-mbarak/Password-Generator)
 
 </td>
@@ -127,6 +129,7 @@ Simple random password generator using HTML, CSS & JS
 ### 💼 MOHAMMED-PORTFOLIO
 My personal portfolio showcasing projects & skills
 
+[![Live](https://img.shields.io/badge/Live-Visit_Site-FF5722?style=for-the-badge&logo=google-chrome)](https://mohammed-mbarak-portfolio.onrender.com/)
 [![Repo](https://img.shields.io/badge/GitHub-View_Repo-181717?style=for-the-badge&logo=github)](https://github.com/mohammed-mbarak/Mohammed-Portfolio)
 
 </td>
