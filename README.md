@@ -163,7 +163,6 @@ Healthcare web app for managing appointments and health data
 </p>
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohammed-mbarak&theme=radical&hide_border=true&background=0D1117" alt="GitHub Streak" width="48%" />
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohammed-mbarak&theme=react-dark&hide_border=true&bg_color=0D1117" alt="Contribution Graph" width="98%" />
 </p>
 
